@@ -1,0 +1,2 @@
+,stage,status,rows_parsed,rows_loaded,error_limit,errors_seen,first_error,first_error_line,first_error_character,first_error_column_name,Load_status,sq_start,sq_end
+0,data_stage_carrefour/RAW_CARREFOUR_MAIN.csv.gz,LOADED,3045,3045,1,0,,,,,Successful,2022-09-10,2022-09-10
